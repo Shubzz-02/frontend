@@ -45,8 +45,8 @@ app.use((err, req, res, next) => {
 });
 
 // Setting up the server
-app.listen(8080, () => {
-    console.log('Server is running on port 8080...');
+app.listen(80, () => {
+    console.log('Server is running on port 80...');
 });
 
 module.exports = app;
