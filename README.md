@@ -1,9 +1,6 @@
-# Login-Register-Nodejs
-A simple Login/Register application developed in Nodejs using Express.
-
-# Getting started
-
-Unzip the downloaded file.
+# Nodejs login-register
+A simple Login/Register application developed in Nodejs using Express and deployed on Azure Web App service, using GitHub Actions.
+Click Here[https://frontendappavail.azurewebsites.net/home] to access website and here[] for Github Action[.github/workflows/docker-hub.yml] file
 
 ### Installing dependencies:
 Enter this command it will install all the dependencies at once:
